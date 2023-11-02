@@ -1,0 +1,60 @@
+/* FILEPATH: /c:/Users/pc/Documents/Nextjs-project/nextjs-blog/styles/utils.module.css */
+
+/* Center text horizontally and vertically */
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Add margin to the top and bottom of an element */
+.my-4 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+/* Add margin to the left and right of an element */
+.mx-4 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+/* Set a max width for an element */
+.max-w-2xl {
+    max-width: 42rem;
+}
+
+/* Set a padding for an element */
+.p-4 {
+    padding: 1rem;
+}
+
+/* Set a font size for an element */
+.text-lg {
+    font-size: 1.125rem;
+}
+
+/* Set a font weight for an element */
+.font-bold {
+    font-weight: 700;
+}
+
+/* Set a text color for an element */
+.text-gray-700 {
+    color: #4a5568;
+}
+
+/* Set a background color for an element */
+.bg-gray-100 {
+    background-color: #f7fafc;
+}
+
+/* Set a border radius for an element */
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+/* Set a box shadow for an element */
+.shadow-lg {
+    box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
