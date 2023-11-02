@@ -1,5 +1,5 @@
 ---
-title: 'Two Forms of Pre-rendering the second commit'
+title: 'Two Forms of Pre-rendering the third commit'
 date: '2020-01-01'
 ---
 
